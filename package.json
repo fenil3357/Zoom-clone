@@ -1,0 +1,24 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "- Initialize our NodeJS Project\r - Initialize our first view\r - Create a room id\r - Add the ability to view our own video\r - Add ability to allow others to stram their video\r - Add styling\r - Add the ability to create messages\r - Add mute button\r - Add stop video button",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenil3357/Zoom-clone.git"
+  },
+  "author": "Fenil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenil3357/Zoom-clone/issues"
+  },
+  "homepage": "https://github.com/fenil3357/Zoom-clone#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
